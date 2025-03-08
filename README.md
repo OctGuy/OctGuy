@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://yuna0x0.com">
+  <a href="https://github.com/OctGuy">
     <img src="meow.png" alt="Banner" width="50%">
   </a>
 </p>
