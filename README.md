@@ -4,13 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
-<p align="center">
-  <a href="https://yuna0x0.com">
-    <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
-  </a>
-</p>
-
 ## 👋 Introduction
 
 Hi guys, I'm **Tran Duc Thinh**. I'm a Software Engineer student from University of Information and Technology. 
