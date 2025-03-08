@@ -1,6 +1,7 @@
 ## 👋 Introduction
 
 Hi guys, I'm **Tran Duc Thinh**. I'm a Software Engineer student from University of Information and Technology. 
+
 I'm curently learning about **Spring Boot**, **NextJS** and **MongoDB**, contact me if you have same interesting or some questions!
 
 ## 📫 Contact Me on Social Media
