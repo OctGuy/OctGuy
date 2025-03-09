@@ -8,7 +8,7 @@
 
 Hi guys 🤟🏻, I'm **Tran Duc Thinh**. I'm a Software Engineer student from University of Information and Technology. 
 
-🧘 Curently learning about something, maybe public, maybe private. Who knows? 
+🧘 Currently learning about something, maybe public, maybe private. Who knows? 
 
 ## 📫 Contact Me on Social Media
 
